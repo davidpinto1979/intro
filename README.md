@@ -1,6 +1,6 @@
 # Projeto: Módulo 2833 - Programação de Bases de Dados Web 🚀
 
-Este repositório contém os exercícios e projetos desenvolvidos durante o módulo 2833 na formação do **CINEL**. O foco principal é a integração de linguagens de programação web com sistemas de gestão de bases de dados.
+Este repositório contém os exercícios e projetos desenvolvidos durante o módulo 2833 na formação do **CINEL**. O foco principal é a integração de linguagens de programação web com sistemas de gestão de bases de dados. DAVID PINTO
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** (Ex: PHP / JavaScript / Python)
