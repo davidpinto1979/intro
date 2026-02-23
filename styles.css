@@ -1,0 +1,54 @@
+html {
+  scroll-behavior: smooth;
+  } 
+
+p {
+    color: blue;
+    text-align: justify;
+  }
+
+  h4 {
+    background-color: aqua;
+  }
+
+  #titulo {
+    border: 5px dashed red;
+  }
+
+  .borda-feia {
+    border: 5px dotted orange;
+    border-radius: 32px;
+  }
+
+  img {
+    max-width: 100%;
+
+  } 
+
+  #galeria img {
+    width: 300px;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+  }
+
+  table,
+  th,
+  td {
+    border: 5px solid black;
+    padding: 10px 5px;
+  } 
+
+  table {
+        border-collapse: collapse;
+        width: 50%;
+        table-layout: fixed;
+  }
+
+  tr:first-child {
+    background-color: lightgray;
+  }
+
+
+  tr:nth-child(3) {
+    background-color: lightblue;
+  }
